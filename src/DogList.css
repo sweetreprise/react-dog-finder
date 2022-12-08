@@ -1,0 +1,13 @@
+.doglist {
+    display:flex;
+    justify-content: space-around;
+}
+.doglist div {
+    display: inline;
+    width: 15rem;
+}
+
+.doglist img {
+    width: 10rem;
+    height: 10rem;
+} 
